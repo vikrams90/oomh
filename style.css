@@ -52,6 +52,10 @@ sup{
 
 }
 
+.nav-menu{
+    display: none;
+}
+
 .nav-left ul li{
     list-style: none;
     font-size: 25px;
